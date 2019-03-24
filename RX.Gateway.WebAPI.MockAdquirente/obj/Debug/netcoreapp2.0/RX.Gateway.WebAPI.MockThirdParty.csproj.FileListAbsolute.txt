@@ -1,0 +1,16 @@
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.WebAPI.MockAdquirente\bin\Debug\netcoreapp2.0\RX.Gateway.WebAPI.MockThirdParty.dll
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.WebAPI.MockAdquirente\bin\Debug\netcoreapp2.0\GatewayApiClient.dll
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.WebAPI.MockAdquirente\bin\Debug\netcoreapp2.0\RX.Gateway.Model.API.dll
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.WebAPI.MockAdquirente\bin\Debug\netcoreapp2.0\RX.Gateway.Model.API.pdb
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.WebAPI.MockAdquirente\obj\Debug\netcoreapp2.0\RX.Gateway.WebAPI.MockThirdParty.csproj.CoreCompileInputs.cache
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.WebAPI.MockAdquirente\obj\Debug\netcoreapp2.0\RX.Gateway.WebAPI.MockThirdParty.AssemblyInfoInputs.cache
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.WebAPI.MockAdquirente\obj\Debug\netcoreapp2.0\RX.Gateway.WebAPI.MockThirdParty.AssemblyInfo.cs
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.WebAPI.MockAdquirente\obj\Debug\netcoreapp2.0\RX.Gateway.WebAPI.MockThirdParty.dll
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.WebAPI.MockAdquirente\obj\Debug\netcoreapp2.0\RX.Gateway.WebAPI.MockThirdParty.pdb
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.WebAPI.MockAdquirente\bin\Debug\netcoreapp2.0\RX.Gateway.WebAPI.MockThirdParty.deps.json
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.WebAPI.MockAdquirente\bin\Debug\netcoreapp2.0\RX.Gateway.WebAPI.MockThirdParty.runtimeconfig.json
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.WebAPI.MockAdquirente\bin\Debug\netcoreapp2.0\RX.Gateway.WebAPI.MockThirdParty.runtimeconfig.dev.json
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.WebAPI.MockAdquirente\bin\Debug\netcoreapp2.0\RX.Gateway.WebAPI.MockThirdParty.pdb
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.WebAPI.MockAdquirente\bin\Debug\netcoreapp2.0\RX.Gateway.Model.dll
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.WebAPI.MockAdquirente\bin\Debug\netcoreapp2.0\RX.Gateway.Model.pdb
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.WebAPI.MockAdquirente\obj\Debug\netcoreapp2.0\RX.Gateway.WebAPI.MockThirdParty.csprojResolveAssemblyReference.cache

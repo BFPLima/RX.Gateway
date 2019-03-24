@@ -1,0 +1,13 @@
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.ServiceAgent.AntiFraud\bin\Debug\netcoreapp2.0\RX.Gateway.ServiceAgent.AntiFraud.deps.json
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.ServiceAgent.AntiFraud\bin\Debug\netcoreapp2.0\RX.Gateway.ServiceAgent.AntiFraud.dll
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.ServiceAgent.AntiFraud\bin\Debug\netcoreapp2.0\RX.Gateway.ServiceAgent.AntiFraud.pdb
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.ServiceAgent.AntiFraud\bin\Debug\netcoreapp2.0\RX.Gateway.Model.API.dll
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.ServiceAgent.AntiFraud\bin\Debug\netcoreapp2.0\RX.Gateway.Model.API.pdb
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.ServiceAgent.AntiFraud\obj\Debug\netcoreapp2.0\RX.Gateway.ServiceAgent.AntiFraud.csproj.CoreCompileInputs.cache
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.ServiceAgent.AntiFraud\obj\Debug\netcoreapp2.0\RX.Gateway.ServiceAgent.AntiFraud.AssemblyInfoInputs.cache
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.ServiceAgent.AntiFraud\obj\Debug\netcoreapp2.0\RX.Gateway.ServiceAgent.AntiFraud.AssemblyInfo.cs
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.ServiceAgent.AntiFraud\obj\Debug\netcoreapp2.0\RX.Gateway.ServiceAgent.AntiFraud.dll
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.ServiceAgent.AntiFraud\obj\Debug\netcoreapp2.0\RX.Gateway.ServiceAgent.AntiFraud.pdb
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.ServiceAgent.AntiFraud\bin\Debug\netcoreapp2.0\RX.Gateway.Model.dll
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.ServiceAgent.AntiFraud\bin\Debug\netcoreapp2.0\RX.Gateway.Model.pdb
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.ServiceAgent.AntiFraud\obj\Debug\netcoreapp2.0\RX.Gateway.ServiceAgent.AntiFraud.csprojResolveAssemblyReference.cache

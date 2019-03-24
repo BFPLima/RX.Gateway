@@ -1,0 +1,17 @@
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Shopkeeper.ConsoleApp\obj\Debug\netcoreapp2.0\RX.Gateway.Shopkeeper.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Shopkeeper.ConsoleApp\obj\Debug\netcoreapp2.0\RX.Gateway.Shopkeeper.ConsoleApp.AssemblyInfoInputs.cache
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Shopkeeper.ConsoleApp\obj\Debug\netcoreapp2.0\RX.Gateway.Shopkeeper.ConsoleApp.AssemblyInfo.cs
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Shopkeeper.ConsoleApp\bin\Debug\netcoreapp2.0\RX.Gateway.Shopkeeper.ConsoleApp.deps.json
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Shopkeeper.ConsoleApp\bin\Debug\netcoreapp2.0\RX.Gateway.Shopkeeper.ConsoleApp.runtimeconfig.json
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Shopkeeper.ConsoleApp\bin\Debug\netcoreapp2.0\RX.Gateway.Shopkeeper.ConsoleApp.runtimeconfig.dev.json
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Shopkeeper.ConsoleApp\bin\Debug\netcoreapp2.0\RX.Gateway.Shopkeeper.ConsoleApp.dll
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Shopkeeper.ConsoleApp\bin\Debug\netcoreapp2.0\RX.Gateway.Shopkeeper.ConsoleApp.pdb
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Shopkeeper.ConsoleApp\bin\Debug\netcoreapp2.0\RX.Gateway.Model.API.dll
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Shopkeeper.ConsoleApp\bin\Debug\netcoreapp2.0\RX.Gateway.Model.dll
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Shopkeeper.ConsoleApp\bin\Debug\netcoreapp2.0\RX.Gateway.ServiceAgent.Shopkeeper.dll
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Shopkeeper.ConsoleApp\bin\Debug\netcoreapp2.0\RX.Gateway.Model.API.pdb
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Shopkeeper.ConsoleApp\bin\Debug\netcoreapp2.0\RX.Gateway.Model.pdb
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Shopkeeper.ConsoleApp\bin\Debug\netcoreapp2.0\RX.Gateway.ServiceAgent.Shopkeeper.pdb
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Shopkeeper.ConsoleApp\obj\Debug\netcoreapp2.0\RX.Gateway.Shopkeeper.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Shopkeeper.ConsoleApp\obj\Debug\netcoreapp2.0\RX.Gateway.Shopkeeper.ConsoleApp.dll
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Shopkeeper.ConsoleApp\obj\Debug\netcoreapp2.0\RX.Gateway.Shopkeeper.ConsoleApp.pdb

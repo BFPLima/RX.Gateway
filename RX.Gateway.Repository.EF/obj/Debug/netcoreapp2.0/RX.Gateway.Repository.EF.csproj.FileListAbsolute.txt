@@ -1,0 +1,15 @@
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Repository.EF\bin\Debug\netcoreapp2.0\RX.Gateway.Repository.EF.deps.json
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Repository.EF\bin\Debug\netcoreapp2.0\RX.Gateway.Repository.EF.dll
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Repository.EF\bin\Debug\netcoreapp2.0\RX.Gateway.Repository.EF.pdb
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Repository.EF\obj\Debug\netcoreapp2.0\RX.Gateway.Repository.EF.csproj.CoreCompileInputs.cache
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Repository.EF\obj\Debug\netcoreapp2.0\RX.Gateway.Repository.EF.AssemblyInfoInputs.cache
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Repository.EF\obj\Debug\netcoreapp2.0\RX.Gateway.Repository.EF.AssemblyInfo.cs
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Repository.EF\obj\Debug\netcoreapp2.0\RX.Gateway.Repository.EF.dll
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Repository.EF\obj\Debug\netcoreapp2.0\RX.Gateway.Repository.EF.pdb
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Repository.EF\bin\Debug\netcoreapp2.0\RX.Gateway.Model.dll
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Repository.EF\bin\Debug\netcoreapp2.0\RX.Gateway.Repository.Interface.dll
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Repository.EF\bin\Debug\netcoreapp2.0\RX.Gateway.Model.pdb
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Repository.EF\bin\Debug\netcoreapp2.0\RX.Gateway.Repository.Interface.pdb
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Repository.EF\bin\Debug\netcoreapp2.0\RX.Gateway.Repository.EF.runtimeconfig.json
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Repository.EF\bin\Debug\netcoreapp2.0\RX.Gateway.Repository.EF.runtimeconfig.dev.json
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Repository.EF\obj\Debug\netcoreapp2.0\RX.Gateway.Repository.EF.csprojResolveAssemblyReference.cache

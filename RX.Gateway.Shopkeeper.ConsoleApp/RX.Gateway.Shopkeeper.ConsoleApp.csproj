@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RX.Gateway.Model.API\RX.Gateway.Model.API.csproj" />
+    <ProjectReference Include="..\RX.Gateway.Model\RX.Gateway.Model.csproj" />
+    <ProjectReference Include="..\RX.Gateway.ServiceAgent.Shopkeeper\RX.Gateway.ServiceAgent.Shopkeeper.csproj" />
+  </ItemGroup>
+
+</Project>

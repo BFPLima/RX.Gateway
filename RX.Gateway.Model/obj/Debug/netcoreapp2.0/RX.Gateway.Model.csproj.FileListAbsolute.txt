@@ -1,0 +1,9 @@
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Model\bin\Debug\netcoreapp2.0\RX.Gateway.Model.deps.json
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Model\bin\Debug\netcoreapp2.0\RX.Gateway.Model.dll
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Model\bin\Debug\netcoreapp2.0\RX.Gateway.Model.pdb
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Model\obj\Debug\netcoreapp2.0\RX.Gateway.Model.csproj.CoreCompileInputs.cache
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Model\obj\Debug\netcoreapp2.0\RX.Gateway.Model.AssemblyInfoInputs.cache
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Model\obj\Debug\netcoreapp2.0\RX.Gateway.Model.AssemblyInfo.cs
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Model\obj\Debug\netcoreapp2.0\RX.Gateway.Model.dll
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Model\obj\Debug\netcoreapp2.0\RX.Gateway.Model.pdb
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Model\obj\Debug\netcoreapp2.0\RX.Gateway.Model.csprojResolveAssemblyReference.cache

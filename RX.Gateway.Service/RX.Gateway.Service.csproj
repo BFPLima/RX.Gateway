@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RX.Gateway.Model\RX.Gateway.Model.csproj" />
+    <ProjectReference Include="..\RX.Gateway.Repository.Interface\RX.Gateway.Repository.Interface.csproj" />
+    <ProjectReference Include="..\RX.Gateway.Service.Interface\RX.Gateway.Service.Interface.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Service\bin\Debug\netcoreapp2.0\RX.Gateway.Service.deps.json
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Service\bin\Debug\netcoreapp2.0\RX.Gateway.Service.dll
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Service\bin\Debug\netcoreapp2.0\RX.Gateway.Service.pdb
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Service\obj\Debug\netcoreapp2.0\RX.Gateway.Service.csprojResolveAssemblyReference.cache
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Service\obj\Debug\netcoreapp2.0\RX.Gateway.Service.csproj.CoreCompileInputs.cache
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Service\obj\Debug\netcoreapp2.0\RX.Gateway.Service.AssemblyInfoInputs.cache
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Service\obj\Debug\netcoreapp2.0\RX.Gateway.Service.AssemblyInfo.cs
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Service\obj\Debug\netcoreapp2.0\RX.Gateway.Service.dll
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Service\obj\Debug\netcoreapp2.0\RX.Gateway.Service.pdb
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Service\bin\Debug\netcoreapp2.0\RX.Gateway.Model.dll
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Service\bin\Debug\netcoreapp2.0\RX.Gateway.Model.pdb
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Service\bin\Debug\netcoreapp2.0\RX.Gateway.Repository.Interface.dll
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Service\bin\Debug\netcoreapp2.0\RX.Gateway.Service.Interface.dll
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Service\bin\Debug\netcoreapp2.0\RX.Gateway.Repository.Interface.pdb
+C:\Projetos\RX.Gateway\RX.Gateway\RX.Gateway.Service\bin\Debug\netcoreapp2.0\RX.Gateway.Service.Interface.pdb

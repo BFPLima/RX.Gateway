@@ -1,0 +1,44 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.9" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.1.1" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.0.2" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="2.1.1" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RX.Gateway.Model.API\RX.Gateway.Model.API.csproj" />
+    <ProjectReference Include="..\RX.Gateway.Model\RX.Gateway.Model.csproj" />
+    <ProjectReference Include="..\RX.Gateway.Repository.EF\RX.Gateway.Repository.EF.csproj" />
+    <ProjectReference Include="..\RX.Gateway.Repository.Interface\RX.Gateway.Repository.Interface.csproj" />
+    <ProjectReference Include="..\RX.Gateway.Service.Interface\RX.Gateway.Service.Interface.csproj" />
+    <ProjectReference Include="..\RX.Gateway.ServiceAgent.Acquirier\RX.Gateway.ServiceAgent.Acquirier.csproj" />
+    <ProjectReference Include="..\RX.Gateway.ServiceAgent.AntiFraud\RX.Gateway.ServiceAgent.AntiFraud.csproj" />
+    <ProjectReference Include="..\RX.Gateway.Service\RX.Gateway.Service.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="GatewayApiClient">
+      <HintPath>Libs\GatewayApiClient.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+<ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="2.0.0" />
+ </ItemGroup>
+
+</Project>
